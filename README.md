@@ -1,2 +1,3 @@
 # standard
-代码规范
+
+VUE,HTML,CSS,Javascript代码规范
